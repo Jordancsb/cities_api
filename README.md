@@ -4,7 +4,7 @@
 
 * Linux
 * Git
-* Java 8
+* Java 17
 * Docker
 * VSCode
 * Heroku CLI

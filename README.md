@@ -6,7 +6,7 @@
 * Git
 * Java 8
 * Docker
-* IntelliJ Community
+* VSCode
 * Heroku CLI
 
 ## DataBase
